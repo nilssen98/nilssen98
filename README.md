@@ -28,7 +28,6 @@ I am a computer engineering student...
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" **alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://www.svgrepo.com/show/255832/sql.svg" title="SQL" **alt="SQL" width="40" height="40"/>&nbsp;
-</p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" **alt="C#" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>&nbsp;
 </p>
@@ -45,7 +44,7 @@ I am a computer engineering student...
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" **alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Next.js" **alt="Next.js" width="40" height="40"/>&nbsp;
+<img src="https://seekicon.com/free-icon-download/next-js_1.svg" title="Next.js" **alt="Next.js" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" **alt="Vue" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="React Native" **alt="React Native" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Electron" **alt="Electron" width="40" height="40"/>&nbsp;
