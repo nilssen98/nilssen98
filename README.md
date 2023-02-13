@@ -8,7 +8,7 @@
 
 - Computer engineering student
 - Interested in front-end development with a passion for exploring new technologies
-- Currently working on a startup <a href="ttslabs.ai">project</a> as a front-end developer
+- Currently working on a startup <a href="https://ttslabs.ai">project</a> as a front-end developer
 
 ## Skills
 
