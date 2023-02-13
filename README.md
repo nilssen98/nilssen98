@@ -9,17 +9,6 @@
 I am a computer engineering student...
 
 ### 🛠 &nbsp;Languages
-
-- Typescript
-- Javascript
-- HTML5
-- CSS
-- Python
-- Java
-- SQL
-- C#
-- C++
-
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" **alt="Typescript" width="48" height="48"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" **alt="Javascript" width="48" height="48"/>&nbsp;
@@ -33,15 +22,6 @@ I am a computer engineering student...
 </p>
 
 ### 🛠 &nbsp;Frameworks
-
-- React
-- Next.js
-- Vue 3
-- React Native
-- Electron
-- Spring Boot
-- ASP.NET
-
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" **alt="React" width="48" height="48"/>&nbsp;
 <img src="https://seekicon.com/free-icon-download/next-js_1.svg" title="Next.js" **alt="Next.js" width="48" height="48"/>&nbsp;
@@ -53,13 +33,8 @@ I am a computer engineering student...
 </p>
 
 ### 🛠 &nbsp;Tools
-
-- Figma
-- Github
-- GitLab
-
 <p>
 <img src="https://iconape.com/wp-content/png_logo_vector/figma-logo.png" title="Figma" **alt="Figma" width="48" height="48"/>&nbsp;
-<img src="https://marcas-logos.net/wp-content/uploads/2020/03/GITHUB-LOGO-1024x576.png" title="Github" **alt="Github" width="48" height="48"/>&nbsp;
+<img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/github-1.svg" title="Github" **alt="Github" width="48" height="48"/>&nbsp;
 <img src="https://i0.wp.com/leeno.org/wp-content/uploads/2018/06/GitLab_Logo.svg_.png?fit=960%2C887&ssl=1" title="GitLab" **alt="GitLab" width="48" height="48"/>&nbsp;
 </p>
