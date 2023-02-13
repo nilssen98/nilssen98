@@ -1,14 +1,14 @@
-<p align="center">
-<img src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b76116cbec102337f0f0b8a4d750a1442dba64e51cd89&rid=giphy.gif&ct=g" height="90"></img>
-</p>
-<p align="center">Hi, I'm Kasper 👋</p>
-<p align="center">
+## Hi, I am Kasper 👋
+
 <a href="https://www.linkedin.com/in/kasper-nilssen/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+
 </p>
 
 I am a computer engineering student...
 
-### 🛠 &nbsp;Languages
+## Skills
+
+### Languages
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" **alt="Typescript" height="48"/>&nbsp;&nbsp;
@@ -22,7 +22,7 @@ I am a computer engineering student...
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" height="48"/>&nbsp;&nbsp;
 </p>
 
-### 🛠 &nbsp;Frameworks
+### Frameworks
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" **alt="React" height="48"/>&nbsp;&nbsp;
@@ -34,7 +34,7 @@ I am a computer engineering student...
 <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="ASP.NET" **alt="ASP.NET" height="48"/>&nbsp;&nbsp;
 </p>
 
-### 🛠 &nbsp;Tools
+### Tools
 
 <p>
 <img src="https://iconape.com/wp-content/png_logo_vector/figma-logo.png" title="Figma" **alt="Figma" height="48"/>&nbsp;&nbsp;
