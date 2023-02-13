@@ -25,19 +25,19 @@ I am a computer engineering student...
 ### 🛠 &nbsp;Frameworks
 
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" **alt="React" height="48"/>&nbsp;
-<img src="https://seekicon.com/free-icon-download/next-js_1.svg" title="Next.js" **alt="Next.js" height="48"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" **alt="Vue" height="48"/>&nbsp;
-<img src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" title="React Native" **alt="React Native" height="48"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Electron" **alt="Electron" height="48"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" **alt="Spring" height="48"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="ASP.NET" **alt="ASP.NET" height="48"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" **alt="React" height="48"/>&nbsp;&nbsp;
+<img src="https://seekicon.com/free-icon-download/next-js_1.svg" title="Next.js" **alt="Next.js" height="48"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" **alt="Vue" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" title="React Native" **alt="React Native" height="48"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Electron" **alt="Electron" height="48"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" **alt="Spring" height="48"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="ASP.NET" **alt="ASP.NET" height="48"/>&nbsp;&nbsp;
 </p>
 
 ### 🛠 &nbsp;Tools
 
 <p>
-<img src="https://iconape.com/wp-content/png_logo_vector/figma-logo.png" title="Figma" **alt="Figma" height="48"/>&nbsp;
-<img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/github-1.svg" title="Github" **alt="Github" height="48"/>&nbsp;
-<img src="https://i0.wp.com/leeno.org/wp-content/uploads/2018/06/GitLab_Logo.svg_.png?fit=960%2C887&ssl=1" title="GitLab" **alt="GitLab" height="48"/>&nbsp;
+<img src="https://iconape.com/wp-content/png_logo_vector/figma-logo.png" title="Figma" **alt="Figma" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/github-1.svg" title="Github" **alt="Github" height="48"/>&nbsp;&nbsp;
+<img src="https://i0.wp.com/leeno.org/wp-content/uploads/2018/06/GitLab_Logo.svg_.png?fit=960%2C887&ssl=1" title="GitLab" **alt="GitLab" height="48"/>&nbsp;&nbsp;
 </p>
