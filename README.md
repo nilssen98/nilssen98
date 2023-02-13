@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilssen98)](https://github.com/anuraghazra/github-readme-stats)
+<div style="width: 100%">
+    <a href="https://github.com/nilssen98">
+        <img alt="Kasper's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilssen98&show_icons=true&layout=compact&count_private=true" />
+    </a>
+</div>
