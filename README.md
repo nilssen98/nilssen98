@@ -11,15 +11,15 @@ I am a computer engineering student...
 ### 🛠 &nbsp;Languages
 
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" **alt="Typescript" height="48"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" **alt="Javascript" height="48"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" **alt="HTML5" height="48"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" **alt="CSS3" height="48"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" height="48"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" **alt="Java" height="48"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" **alt="Typescript" height="48"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" **alt="Javascript" height="48"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" **alt="HTML5" height="48"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" **alt="CSS3" height="48"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" height="48"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" **alt="Java" height="48"/>&nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/255832/sql.svg" title="SQL" **alt="SQL" height="48"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" **alt="C#" height="48"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" height="48"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" **alt="C#" height="48"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" height="48"/>&nbsp;&nbsp;
 </p>
 
 ### 🛠 &nbsp;Frameworks
